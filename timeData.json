@@ -50,5 +50,100 @@
     "windowsStartTime": "5/7/2023, 5:44:01 PM",
     "duration": 52,
     "totalDuration": 71
+  },
+  {
+    "windowsStartTime": "5/7/2023, 7:05:31 PM",
+    "duration": 81,
+    "totalDuration": 152
+  },
+  {
+    "windowsStartTime": "5/8/2023, 10:33:07 AM",
+    "duration": 927,
+    "totalDuration": 1079
+  },
+  {
+    "windowsStartTime": "5/8/2023, 12:39:17 PM",
+    "duration": 126,
+    "totalDuration": 1205
+  },
+  {
+    "windowsStartTime": "5/8/2023, 12:40:19 PM",
+    "duration": 1,
+    "totalDuration": 1206
+  },
+  {
+    "windowsStartTime": "5/8/2023, 12:41:30 PM",
+    "duration": 1,
+    "totalDuration": 1207
+  },
+  {
+    "windowsStartTime": "5/8/2023, 12:44:57 PM",
+    "duration": 3,
+    "totalDuration": 1210
+  },
+  {
+    "windowsStartTime": "5/8/2023, 12:45:29 PM",
+    "duration": 0,
+    "totalDuration": 1210
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:03:06 PM",
+    "duration": 17,
+    "totalDuration": 1227
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:06:21 PM",
+    "windowsEndTime": "5/8/2023, 1:06:21 PM",
+    "duration": 3,
+    "totalDuration": 1230
+  },
+  {
+    "date": "2023-05-08",
+    "windowsStartTime": "5/8/2023, 1:12:23 PM"
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:12:50 PM",
+    "windowsEndTime": "5/8/2023, 1:12:50 PM",
+    "duration": 0,
+    "totalDuration": 1230
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:16:32 PM",
+    "windowsEndTime": "5/8/2023, 1:16:32 PM",
+    "duration": 3,
+    "totalDuration": 1233
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:17:55 PM",
+    "duration": 1,
+    "totalDuration": 1234
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:26:11 PM",
+    "duration": 8
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:29:29 PM",
+    "duration": 3
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:30:07 PM",
+    "duration": 0
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:33:03 PM",
+    "duration": 2
+  },
+  {
+    "windowsStartTime": "5/8/2023, 1:35:42 PM",
+    "duration": 2
+  },
+  {
+    "windowsStartTime": "5/8/2023, 2:02:53 PM",
+    "duration": 27
+  },
+  {
+    "windowsStartTime": "5/8/2023, 2:33:23 PM",
+    "duration": 30
   }
 ]
